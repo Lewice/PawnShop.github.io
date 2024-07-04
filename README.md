@@ -183,10 +183,10 @@
 </head>
 <body>
 
-  <h2>Pearls Menu</h2>
+  <h2>South Side Pawn</h2>
 
   <form id="menuForm">
-  <h3>Coffee Deals</h3>
+  <h3></h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="300"> Rolex - $300
       <input type="number" class="quantity" value="1" min="1">
