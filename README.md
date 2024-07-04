@@ -188,15 +188,15 @@
   <form id="menuForm">
   <h3></h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="300"> Rolex - $300
+      <input type="checkbox" class="menu-item" data-price="200"> Rolex - $200
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="100"> Ring - $100
+      <input type="checkbox" class="menu-item" data-price="80"> Ring - $80
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="120"> Chain - $120
+      <input type="checkbox" class="menu-item" data-price="100"> Chain - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
@@ -204,11 +204,11 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="100"> Earrings $100
+      <input type="checkbox" class="menu-item" data-price="80"> Earrings $80
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="7500"> Gold Coins $50
+      <input type="checkbox" class="menu-item" data-price="40"> Gold Coins $40
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
@@ -216,7 +216,7 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="1000"> TV $1000
+      <input type="checkbox" class="menu-item" data-price="700"> TV $700
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
@@ -228,11 +228,11 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="600"> PC $600
+      <input type="checkbox" class="menu-item" data-price="500"> PC $500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="250"> Mircowave $250
+      <input type="checkbox" class="menu-item" data-price="150"> Mircowave $150
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
@@ -244,19 +244,19 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="350"> Gold Bar $350
+      <input type="checkbox" class="menu-item" data-price="200"> Gold Bar $200
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="150"> Silver Bar $150
+      <input type="checkbox" class="menu-item" data-price="90"> Silver Bar $90
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Gold Ore $200
+      <input type="checkbox" class="menu-item" data-price="100"> Gold Ore $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="100"> Silver Ore $100
+      <input type="checkbox" class="menu-item" data-price="45"> Silver Ore $45
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
