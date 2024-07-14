@@ -244,11 +244,11 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Gold Bar $200
+      <input type="checkbox" class="menu-item" data-price="300"> Gold Bar $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="90"> Silver Bar $90
+      <input type="checkbox" class="menu-item" data-price="100"> Silver Bar $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
